@@ -1,0 +1,12 @@
+C:\Users\eliel.silva\source\repos\LivrariaDTO\bin\Debug\net6.0\DDDWebAPI.Aplication.DTO.deps.json
+C:\Users\eliel.silva\source\repos\LivrariaDTO\bin\Debug\net6.0\DDDWebAPI.Aplication.DTO.dll
+C:\Users\eliel.silva\source\repos\LivrariaDTO\bin\Debug\net6.0\DDDWebAPI.Aplication.DTO.pdb
+C:\Users\eliel.silva\source\repos\LivrariaDTO\obj\Debug\net6.0\DDDWebAPI.Aplication.DTO.csproj.AssemblyReference.cache
+C:\Users\eliel.silva\source\repos\LivrariaDTO\obj\Debug\net6.0\DDDWebAPI.Aplication.DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eliel.silva\source\repos\LivrariaDTO\obj\Debug\net6.0\DDDWebAPI.Aplication.DTO.AssemblyInfoInputs.cache
+C:\Users\eliel.silva\source\repos\LivrariaDTO\obj\Debug\net6.0\DDDWebAPI.Aplication.DTO.AssemblyInfo.cs
+C:\Users\eliel.silva\source\repos\LivrariaDTO\obj\Debug\net6.0\DDDWebAPI.Aplication.DTO.csproj.CoreCompileInputs.cache
+C:\Users\eliel.silva\source\repos\LivrariaDTO\obj\Debug\net6.0\DDDWebAPI.Aplication.DTO.dll
+C:\Users\eliel.silva\source\repos\LivrariaDTO\obj\Debug\net6.0\refint\DDDWebAPI.Aplication.DTO.dll
+C:\Users\eliel.silva\source\repos\LivrariaDTO\obj\Debug\net6.0\DDDWebAPI.Aplication.DTO.pdb
+C:\Users\eliel.silva\source\repos\LivrariaDTO\obj\Debug\net6.0\ref\DDDWebAPI.Aplication.DTO.dll

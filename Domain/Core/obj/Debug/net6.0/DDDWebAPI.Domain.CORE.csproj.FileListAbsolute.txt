@@ -1,0 +1,15 @@
+C:\Users\eliel.silva\source\repos\LivrosDomain.CORE\bin\Debug\net6.0\DDDWebAPI.Domain.CORE.deps.json
+C:\Users\eliel.silva\source\repos\LivrosDomain.CORE\bin\Debug\net6.0\DDDWebAPI.Domain.CORE.dll
+C:\Users\eliel.silva\source\repos\LivrosDomain.CORE\bin\Debug\net6.0\DDDWebAPI.Domain.CORE.pdb
+C:\Users\eliel.silva\source\repos\LivrosDomain.CORE\bin\Debug\net6.0\DDDWebAPI.Domain.dll
+C:\Users\eliel.silva\source\repos\LivrosDomain.CORE\bin\Debug\net6.0\DDDWebAPI.Domain.pdb
+C:\Users\eliel.silva\source\repos\LivrosDomain.CORE\obj\Debug\net6.0\DDDWebAPI.Domain.CORE.csproj.AssemblyReference.cache
+C:\Users\eliel.silva\source\repos\LivrosDomain.CORE\obj\Debug\net6.0\DDDWebAPI.Domain.CORE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eliel.silva\source\repos\LivrosDomain.CORE\obj\Debug\net6.0\DDDWebAPI.Domain.CORE.AssemblyInfoInputs.cache
+C:\Users\eliel.silva\source\repos\LivrosDomain.CORE\obj\Debug\net6.0\DDDWebAPI.Domain.CORE.AssemblyInfo.cs
+C:\Users\eliel.silva\source\repos\LivrosDomain.CORE\obj\Debug\net6.0\DDDWebAPI.Domain.CORE.csproj.CoreCompileInputs.cache
+C:\Users\eliel.silva\source\repos\LivrosDomain.CORE\obj\Debug\net6.0\DDDWebAPI.Domain.CORE.csproj.CopyComplete
+C:\Users\eliel.silva\source\repos\LivrosDomain.CORE\obj\Debug\net6.0\DDDWebAPI.Domain.CORE.dll
+C:\Users\eliel.silva\source\repos\LivrosDomain.CORE\obj\Debug\net6.0\refint\DDDWebAPI.Domain.CORE.dll
+C:\Users\eliel.silva\source\repos\LivrosDomain.CORE\obj\Debug\net6.0\DDDWebAPI.Domain.CORE.pdb
+C:\Users\eliel.silva\source\repos\LivrosDomain.CORE\obj\Debug\net6.0\ref\DDDWebAPI.Domain.CORE.dll

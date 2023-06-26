@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "DDDWebAPI.Domain.Services/1.0.0": {
+        "dependencies": {
+          "DDDWebAPI.Domain": "1.0.0",
+          "DDDWebAPI.Domain.CORE": "1.0.0"
+        },
+        "runtime": {
+          "DDDWebAPI.Domain.Services.dll": {}
+        }
+      },
+      "DDDWebAPI.Domain/1.0.0": {
+        "runtime": {
+          "DDDWebAPI.Domain.dll": {}
+        }
+      },
+      "DDDWebAPI.Domain.CORE/1.0.0": {
+        "dependencies": {
+          "DDDWebAPI.Domain": "1.0.0"
+        },
+        "runtime": {
+          "DDDWebAPI.Domain.CORE.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DDDWebAPI.Domain.Services/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DDDWebAPI.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DDDWebAPI.Domain.CORE/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\Users\eliel.silva\source\repos\Livraria.ApplicationData\bin\Debug\net6.0\DDDWebAPI.Infrastructure.Data.deps.json
+C:\Users\eliel.silva\source\repos\Livraria.ApplicationData\bin\Debug\net6.0\DDDWebAPI.Infrastructure.Data.dll
+C:\Users\eliel.silva\source\repos\Livraria.ApplicationData\bin\Debug\net6.0\DDDWebAPI.Infrastructure.Data.pdb
+C:\Users\eliel.silva\source\repos\Livraria.ApplicationData\bin\Debug\net6.0\DDDWebAPI.Domain.dll
+C:\Users\eliel.silva\source\repos\Livraria.ApplicationData\bin\Debug\net6.0\DDDWebAPI.Domain.pdb
+C:\Users\eliel.silva\source\repos\Livraria.ApplicationData\obj\Debug\net6.0\DDDWebAPI.Infrastructure.Data.csproj.AssemblyReference.cache
+C:\Users\eliel.silva\source\repos\Livraria.ApplicationData\obj\Debug\net6.0\DDDWebAPI.Infrastructure.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eliel.silva\source\repos\Livraria.ApplicationData\obj\Debug\net6.0\DDDWebAPI.Infrastructure.Data.AssemblyInfoInputs.cache
+C:\Users\eliel.silva\source\repos\Livraria.ApplicationData\obj\Debug\net6.0\DDDWebAPI.Infrastructure.Data.AssemblyInfo.cs
+C:\Users\eliel.silva\source\repos\Livraria.ApplicationData\obj\Debug\net6.0\DDDWebAPI.Infrastructure.Data.csproj.CoreCompileInputs.cache
+C:\Users\eliel.silva\source\repos\Livraria.ApplicationData\obj\Debug\net6.0\DDDWebAPI.Infrastructure.Data.csproj.CopyComplete
+C:\Users\eliel.silva\source\repos\Livraria.ApplicationData\obj\Debug\net6.0\DDDWebAPI.Infrastructure.Data.dll
+C:\Users\eliel.silva\source\repos\Livraria.ApplicationData\obj\Debug\net6.0\refint\DDDWebAPI.Infrastructure.Data.dll
+C:\Users\eliel.silva\source\repos\Livraria.ApplicationData\obj\Debug\net6.0\DDDWebAPI.Infrastructure.Data.pdb
+C:\Users\eliel.silva\source\repos\Livraria.ApplicationData\obj\Debug\net6.0\ref\DDDWebAPI.Infrastructure.Data.dll

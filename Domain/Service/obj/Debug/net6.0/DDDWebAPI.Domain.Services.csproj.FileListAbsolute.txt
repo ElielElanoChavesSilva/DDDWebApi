@@ -1,0 +1,17 @@
+C:\Users\eliel.silva\source\repos\LivrosDomain.Service\bin\Debug\net6.0\DDDWebAPI.Domain.Services.deps.json
+C:\Users\eliel.silva\source\repos\LivrosDomain.Service\bin\Debug\net6.0\DDDWebAPI.Domain.Services.dll
+C:\Users\eliel.silva\source\repos\LivrosDomain.Service\bin\Debug\net6.0\DDDWebAPI.Domain.Services.pdb
+C:\Users\eliel.silva\source\repos\LivrosDomain.Service\bin\Debug\net6.0\DDDWebAPI.Domain.CORE.dll
+C:\Users\eliel.silva\source\repos\LivrosDomain.Service\bin\Debug\net6.0\DDDWebAPI.Domain.dll
+C:\Users\eliel.silva\source\repos\LivrosDomain.Service\bin\Debug\net6.0\DDDWebAPI.Domain.CORE.pdb
+C:\Users\eliel.silva\source\repos\LivrosDomain.Service\bin\Debug\net6.0\DDDWebAPI.Domain.pdb
+C:\Users\eliel.silva\source\repos\LivrosDomain.Service\obj\Debug\net6.0\DDDWebAPI.Domain.Services.csproj.AssemblyReference.cache
+C:\Users\eliel.silva\source\repos\LivrosDomain.Service\obj\Debug\net6.0\DDDWebAPI.Domain.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eliel.silva\source\repos\LivrosDomain.Service\obj\Debug\net6.0\DDDWebAPI.Domain.Services.AssemblyInfoInputs.cache
+C:\Users\eliel.silva\source\repos\LivrosDomain.Service\obj\Debug\net6.0\DDDWebAPI.Domain.Services.AssemblyInfo.cs
+C:\Users\eliel.silva\source\repos\LivrosDomain.Service\obj\Debug\net6.0\DDDWebAPI.Domain.Services.csproj.CoreCompileInputs.cache
+C:\Users\eliel.silva\source\repos\LivrosDomain.Service\obj\Debug\net6.0\DDDWebAPI.Domain.Services.csproj.CopyComplete
+C:\Users\eliel.silva\source\repos\LivrosDomain.Service\obj\Debug\net6.0\DDDWebAPI.Domain.Services.dll
+C:\Users\eliel.silva\source\repos\LivrosDomain.Service\obj\Debug\net6.0\refint\DDDWebAPI.Domain.Services.dll
+C:\Users\eliel.silva\source\repos\LivrosDomain.Service\obj\Debug\net6.0\DDDWebAPI.Domain.Services.pdb
+C:\Users\eliel.silva\source\repos\LivrosDomain.Service\obj\Debug\net6.0\ref\DDDWebAPI.Domain.Services.dll

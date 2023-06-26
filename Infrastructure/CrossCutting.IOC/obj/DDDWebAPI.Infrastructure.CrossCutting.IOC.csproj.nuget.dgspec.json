@@ -1,0 +1,87 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\eliel.silva\\source\\repos\\DDDWebAPI\\Infrastructure\\CrossCutting.IOC\\DDDWebAPI.Infrastructure.CrossCutting.IOC.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\eliel.silva\\source\\repos\\DDDWebAPI\\Infrastructure\\CrossCutting.IOC\\DDDWebAPI.Infrastructure.CrossCutting.IOC.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\eliel.silva\\source\\repos\\DDDWebAPI\\Infrastructure\\CrossCutting.IOC\\DDDWebAPI.Infrastructure.CrossCutting.IOC.csproj",
+        "projectName": "DDDWebAPI.Infrastructure.CrossCutting.IOC",
+        "projectPath": "C:\\Users\\eliel.silva\\source\\repos\\DDDWebAPI\\Infrastructure\\CrossCutting.IOC\\DDDWebAPI.Infrastructure.CrossCutting.IOC.csproj",
+        "packagesPath": "C:\\Users\\eliel.silva\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\eliel.silva\\source\\repos\\DDDWebAPI\\Infrastructure\\CrossCutting.IOC\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\eliel.silva\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\eliel.silva\\source\\repos\\DDDWebAPI\\Infrastructure\\API\\DDDWebAPI.Infrastructure.CrossCutting.Adapter\\DDDWebAPI.Infrastructure.CrossCutting.Adapter.csproj": {
+                "projectPath": "C:\\Users\\eliel.silva\\source\\repos\\DDDWebAPI\\Infrastructure\\API\\DDDWebAPI.Infrastructure.CrossCutting.Adapter\\DDDWebAPI.Infrastructure.CrossCutting.Adapter.csproj"
+              },
+              "C:\\Users\\eliel.silva\\source\\repos\\DDDWebAPI\\Infrastructure\\DDDWebApplication\\DDDWebAPI.Application.csproj": {
+                "projectPath": "C:\\Users\\eliel.silva\\source\\repos\\DDDWebAPI\\Infrastructure\\DDDWebApplication\\DDDWebAPI.Application.csproj"
+              },
+              "C:\\Users\\eliel.silva\\source\\repos\\DDDWebAPI\\Infrastructure\\Livraria.Infrastructure.Repository\\DDDWebAPI.Infrastructure.Repository.csproj": {
+                "projectPath": "C:\\Users\\eliel.silva\\source\\repos\\DDDWebAPI\\Infrastructure\\Livraria.Infrastructure.Repository\\DDDWebAPI.Infrastructure.Repository.csproj"
+              },
+              "C:\\Users\\eliel.silva\\source\\repos\\DDDWebAPI\\Infrastructure\\LivrosDomain.Service\\DDDWebAPI.Domain.Services.csproj": {
+                "projectPath": "C:\\Users\\eliel.silva\\source\\repos\\DDDWebAPI\\Infrastructure\\LivrosDomain.Service\\DDDWebAPI.Domain.Services.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Autofac": {
+              "target": "Package",
+              "version": "[7.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
